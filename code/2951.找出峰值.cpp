@@ -3,8 +3,6 @@
  *
  * [2951] 找出峰值
  */
-
-// @lc code=start
 class Solution {
 public:
     vector<int> findPeaks(vector<int>& mountain) {
