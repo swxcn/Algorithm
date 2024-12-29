@@ -1,2 +1,2 @@
 # Algorithm
-This is the algorithm that I Learned.
+主要以 LeetCode 算法题为主
