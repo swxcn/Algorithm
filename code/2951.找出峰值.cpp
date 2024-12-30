@@ -1,3 +1,5 @@
+# include<bits/stdc++.h>
+using namespace std;
 /*
  * @lc app=leetcode.cn id=2951 lang=cpp
  *
